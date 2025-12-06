@@ -2,7 +2,7 @@
 
 A React Native physics-based game inspired by Plinko, built with **Expo**. Drop balls, hit pegs, score points, and aim for the high score!
 
-![Pling Theme](https://via.placeholder.com/800x200?text=Plain+Pling+Game)
+
 
 ## ✨ Features
 - **Custom Physics Engine**: Built from scratch for React Native (Gravity, Collisions, Bouncing).
@@ -29,13 +29,8 @@ npm install
 yarn install
 ```
 
-### 3. Adding Assets (Important!) 🎵
-The game relies on sound files which are not included by default. Please add the following files to your `assets/` directory:
-- `pling.mp3` (Standard peg hit)
-- `bounce_heavy.mp3` (Trampoline hit)
-- `score.mp3` (Scoring/Bonus sound)
 
-### 4. Running the Game
+### 3. Running the Game
 To start the local development server:
 
 ```bash
