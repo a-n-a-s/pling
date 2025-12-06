@@ -63,7 +63,7 @@ We use **EAS Build** to generate a standalone APK.
    ```
    *This will take 10-15 minutes in the cloud. Once done, you will receive a link to download your .apk file.*
 
-4.**APK LINK** [https://expo.dev/accounts/akanaspro/projects/pling/builds/e2e7c3ec-6ce4-4e9c-b223-effa667bf731]
+4. **APK LINK** [https://expo.dev/accounts/akanaspro/projects/pling/builds/e2e7c3ec-6ce4-4e9c-b223-effa667bf731]
 ---
 
 ## 📂 Project Structure
